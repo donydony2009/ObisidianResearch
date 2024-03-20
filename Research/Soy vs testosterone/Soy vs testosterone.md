@@ -7,7 +7,7 @@
 - 1g of soy protein is associated with 3.5mg of isoflavone[1]
 - Isoflavone has a similar chemical structure to the hormone estrogen which allows them to bind to estrogen receptors (ER)[5,6]
 - However, isoflavones differ from estrogen at the molecular level in that they preferentially bind to and activate ERβ in comparison to ERα whereas estrogen has equal affinity for both receptors [7-9]. This difference in binding preference is important because the two ERs have different tissue distributions and, when activated, can exert different and sometimes opposite physiological effects [10,11].
-- **! Conflict of interest. Researcher regularly consults soy product producers**
+- **! Conflict of interest. One of the researcher regularly consults soy product producers**
 
 
 **Different legumes isoflavones**
