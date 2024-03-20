@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Veganism/Animals Feeling Pain.md",
+                "file": "Climate/Climate.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Veganism/Animals Feeling Pain.md",
+                "file": "Climate/Climate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Veganism/Animals Feeling Pain.md",
+                "file": "Climate/Climate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Veganism/Animals Feeling Pain.md"
+                "file": "Climate/Climate.md"
               }
             }
           }
@@ -181,6 +181,7 @@
   },
   "active": "c2a17ce53188f8e8",
   "lastOpenFiles": [
+    "Veganism/Animals Feeling Pain.md",
     "Alcohol/Alcohol and memory.md",
     "Soy vs testosterone/Soy vs testosterone.md",
     "Climate/Climate.md",
@@ -188,7 +189,6 @@
     "Abortion/Abortion.md",
     "Climate",
     "Alcohol",
-    "Veganism/Animals Feeling Pain.md",
     "Abortion",
     "Veganism"
   ]
