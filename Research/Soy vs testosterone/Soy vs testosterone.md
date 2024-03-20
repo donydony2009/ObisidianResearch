@@ -9,6 +9,10 @@
 - However, isoflavones differ from estrogen at the molecular level in that they preferentially bind to and activate ERβ in comparison to ERα whereas estrogen has equal affinity for both receptors [7-9]. This difference in binding preference is important because the two ERs have different tissue distributions and, when activated, can exert different and sometimes opposite physiological effects [10,11].
 
 
+**Different legumes isoflavones**
+![[Pasted image 20240320155009.png]]
+
+
 References
 [1] M. Messina, C. Nagata, A.H. Wu, Estimated Asian adult soy protein and isoflavone intakes, Nutr. Cancer 55 (2006) 1–12. 
 [2] K. Konishi, K. Wada, M. Yamakawa, Y. Goto, F. Mizuta, S. Koda, et al., Dietary soy intake is inversely associated with risk of type 2 diabetes in Japanese women but not in men, J. Nutr. 149 (2019) 1208–1214. [3] W. Bai, C. Wang, C. Ren, Intakes of total and individual flavonoids by US adults, Int. J. Food Sci. Nutr. 65 (2014) 9–20.
