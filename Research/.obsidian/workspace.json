@@ -48,9 +48,19 @@
                 "file": "Soy vs testosterone/Pasted image 20240320155009.png"
               }
             }
+          },
+          {
+            "id": "18aef5cf1bf097c9",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Soy vs testosterone/Pasted image 20240320155009.png"
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -177,10 +187,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c2a17ce53188f8e8",
+  "active": "18aef5cf1bf097c9",
   "lastOpenFiles": [
-    "Soy vs testosterone^1.md",
+    "conflict-files-obsidian-git.md",
     "Soy vs testosterone/Pasted image 20240320155009.png",
+    "Soy vs testosterone^1.md",
     "Soy vs testosterone/Soy vs testosterone.md",
     "Soy vs testosterone/Terms.md",
     "Climate/Climate.md",
