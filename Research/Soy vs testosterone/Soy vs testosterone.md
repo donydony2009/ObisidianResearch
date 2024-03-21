@@ -23,6 +23,7 @@
 - 29 males with prostate cancer 117mg/day of isoflavones
 - **! Study doesn't find a statistically significant change in testosterone. But it does not control time of day for blood sample. Also cancer patients**
 4. https://sci-hub.se/https://doi.org/10.1016/j.nutres.2005.12.002 - Soy protein intake by active young adult men raises plasma antioxidant capacity without altering plasma testosterone
+- 30 males -  3 groups soy, whey, cakemix -  164 mg/day of isoflavone
 
 
 **Different legumes isoflavones**
