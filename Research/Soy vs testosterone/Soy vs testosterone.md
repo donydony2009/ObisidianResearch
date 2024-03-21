@@ -9,6 +9,10 @@
 - However, isoflavones differ from estrogen at the molecular level in that they preferentially bind to and activate ERβ in comparison to ERα whereas estrogen has equal affinity for both receptors [7-9]. This difference in binding preference is important because the two ERs have different tissue distributions and, when activated, can exert different and sometimes opposite physiological effects [10,11].
 - **! Conflict of interest. One of the researcher regularly consults soy product producers. Messina is the name**
 
+**Individual studies**
+1. https://sci-hub.se/10.1158/1055-9965.EPI-06-0882 - Clinical and Biological Activity of Soy Protein Powder Supplementation in Healthy Male Volunteers
+- Because testosterone levels peak in the early morning and decrease by 25% to the evening minimum, all subject samples were drawn at approximately the same time to minimize this daily variation
+
 
 **Different legumes isoflavones**
 ![[Pasted image 20240320155009.png]]
