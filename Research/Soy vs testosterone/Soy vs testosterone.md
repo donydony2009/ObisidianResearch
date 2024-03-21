@@ -2,7 +2,7 @@
 **Meta Analyses**
 
 1. https://sci-hub.se/10.1016/j.reprotox.2020.12.019 - Neither soy nor isoflavone intake affects male reproductive hormones: An expanded and updated meta-analysis of clinical studies
-- Avg in japan of isoflavone 30-50mg/d[[[#^1]]],2]
+- Avg in japan of isoflavone 30-50mg/d[[Soy vs testosterone#^Ref1]][1,2]
 - Avg in US[3] and Europe [4] of isoflavone < 3mg/d
 - 1g of soy protein is associated with 3.5mg of isoflavone[1]
 - Isoflavone has a similar chemical structure to the hormone estrogen which allows them to bind to estrogen receptors (ER)[5,6]
@@ -11,7 +11,7 @@
 
 **Individual studies**
 1. https://sci-hub.se/10.1158/1055-9965.EPI-06-0882 - Clinical and Biological Activity of Soy Protein Powder Supplementation in Healthy Male Volunteers
-- 18 males no placebo ages -18-47 mean 31?- , 56g of protein powder
+- 18 males no placebo ages -18-47 mean 31?- , 56g of protein powder ^abc
 - "testosterone levels peak in the early morning and decrease by 25% to the evening minimum"
 - "levels increase after exercise and decrease after immobilization and after glucose load"
 - **! Study shows statistically significant decrease in testosterone**
@@ -42,7 +42,7 @@
 
 
 References
-[1] M. Messina, C. Nagata, A.H. Wu, Estimated Asian adult soy protein and isoflavone intakes, Nutr. Cancer 55 (2006) 1–12. ^1
+[1] M. Messina, C. Nagata, A.H. Wu, Estimated Asian adult soy protein and isoflavone intakes, Nutr. Cancer 55 (2006) 1–12. ^Ref1
 [2] K. Konishi, K. Wada, M. Yamakawa, Y. Goto, F. Mizuta, S. Koda, et al., Dietary soy intake is inversely associated with risk of type 2 diabetes in Japanese women but not in men, J. Nutr. 149 (2019) 1208–1214. 
 [3] W. Bai, C. Wang, C. Ren, Intakes of total and individual flavonoids by US adults, Int. J. Food Sci. Nutr. 65 (2014) 9–20.
 [4] R. Zamora-Ros, P. Ferrari, C.A. Gonzalez, A. Tjonneland, A. Olsen, L. Bredsdorff, et al., Dietary flavonoid and lignan intake and breast cancer risk according to menopause and hormone receptor status in the European Prospective Investigation into Cancer and Nutrition (EPIC) Study, Breast Cancer Res. Treat. 139 (2013) 163–176.
