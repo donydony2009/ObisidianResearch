@@ -34,6 +34,7 @@
 - 6 months
 - "high protein intake has been associated with decreased SHBG"
 - SHBG decreased for all groups
+- **! Study doesn't find a statistically significant change in testosterone .**
 
 
 **Different legumes isoflavones**
