@@ -28,7 +28,6 @@
 5. https://sci-hub.se/https://doi.org/10.3109/13685538.2011.565091 - Soy protein based supplementation supports metabolic effects of resistance training in previously untrained middle aged males
 - 40 males (aged 50-65) - 50 g of soy–yogurt–honey that contained 26.7 g protein
 - Measures free testosterone
-- Note: I noticed that the increase of testosterone
 -  **! Study doesn't find a statistically significant change in testosterone . **
 
 
