@@ -20,7 +20,8 @@
 - 20 males, placebo controlled, 120 mg/day of isoflavones by soya flour scones
 -  **! Study shows statistically significant decrease in testosterone**
 3. https://sci-hub.se/https://doi.org/10.1016/j.urology.2004.04.009 - EFFECTS OF A DIET RICH IN PHYTOESTROGENS ON PROSTATE-SPECIFIC ANTIGEN AND SEX HORMONES IN MEN DIAGNOSED WITH PROSTATE CANCER
-- 29 males with prostate cancer
+- 29 males with prostate cancer 117mg/day of isoflavones
+- 
 
 
 **Different legumes isoflavones**
