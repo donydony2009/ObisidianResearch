@@ -39,7 +39,7 @@
 - **! Study doesn't find a statistically significant change in testosterone .**
 
 
-**Different legumes isoflavones**
+**Different legumes isoflavones (log scale)**
 ![[Pasted image 20240320155009.png]]
 
 
