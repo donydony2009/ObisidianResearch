@@ -28,7 +28,9 @@
 5. https://sci-hub.se/https://doi.org/10.3109/13685538.2011.565091 - Soy protein based supplementation supports metabolic effects of resistance training in previously untrained middle aged males
 - 40 males (aged 50-65) - 50 g of soy–yogurt–honey that contained 26.7 g protein
 - Measures free testosterone
--  **! Study doesn't find a statistically significant change in testosterone . **
+-  **! Study doesn't find a statistically significant change in testosterone .**
+6. https://sci-hub.se/https://doi.org/10.1093/jn/137.7.1769 - Isoflavone-Rich Soy Protein Isolate Suppresses Androgen Receptor Expression without Altering Estrogen Receptor-b Expression or Serum Hormonal Profiles in Men at High Risk of Prostate Cancer
+- Fifty-eight men, aged 50–85 y
 
 
 **Different legumes isoflavones**
