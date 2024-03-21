@@ -2,41 +2,41 @@
 ### Meta Analyses
 
 1. https://sci-hub.se/10.1016/j.reprotox.2020.12.019 - Neither soy nor isoflavone intake affects male reproductive hormones: An expanded and updated meta-analysis of clinical studies
-- Avg in japan of isoflavone 30-50mg/d ([[Soy vs testosterone#^1|1]], [[#^2|2]]) 
-- Avg in US([[^3|3]]) and Europe ([[^4|4]]) of isoflavone < 3mg/d
-- 1g of soy protein is associated with 3.5mg of isoflavone ([[^1|1]])
-- Isoflavone has a similar chemical structure to the hormone estrogen which allows them to bind to estrogen receptors (ER)([[^5|5]], [[^6|6]])
-- However, isoflavones differ from estrogen at the molecular level in that they preferentially bind to and activate ERβ in comparison to ERα whereas estrogen has equal affinity for both receptors ([[^7|7-9]]). This difference in binding preference is important because the two ERs have different tissue distributions and, when activated, can exert different and sometimes opposite physiological effects ([[^10|10]],[[^11|11]]).
-- **! Conflict of interest. One of the researcher regularly consults soy product producers. Messina is the name**
+	- Avg in japan of isoflavone 30-50mg/d ([[Soy vs testosterone#^1|1]], [[#^2|2]]) 
+	- Avg in US([[^3|3]]) and Europe ([[^4|4]]) of isoflavone < 3mg/d
+	- 1g of soy protein is associated with 3.5mg of isoflavone ([[^1|1]])
+	- Isoflavone has a similar chemical structure to the hormone estrogen which allows them to bind to estrogen receptors (ER)([[^5|5]], [[^6|6]])
+	- However, isoflavones differ from estrogen at the molecular level in that they preferentially bind to and activate ERβ in comparison to ERα whereas estrogen has equal affinity for both receptors ([[^7|7-9]]). This difference in binding preference is important because the two ERs have different tissue distributions and, when activated, can exert different and sometimes opposite physiological effects ([[^10|10]],[[^11|11]]).
+	- **! Conflict of interest. One of the researcher regularly consults soy product producers. Messina is the name**
 
 
 ### Individual studies
 
 1. https://sci-hub.se/10.1158/1055-9965.EPI-06-0882 - Clinical and Biological Activity of Soy Protein Powder Supplementation in Healthy Male Volunteers
-- 18 males no placebo ages -18-47 mean 31?- , 56g of protein powder ^abc
-- "testosterone levels peak in the early morning and decrease by 25% to the evening minimum"
-- "levels increase after exercise and decrease after immobilization and after glucose load"
-- **! Study shows statistically significant decrease in testosterone**
+	- 18 males no placebo ages -18-47 mean 31?- , 56g of protein powder ^abc
+	- "testosterone levels peak in the early morning and decrease by 25% to the evening minimum"
+	- "levels increase after exercise and decrease after immobilization and after glucose load"
+	- **! Study shows statistically significant decrease in testosterone**
 
 2. https://sci-hub.se/https://www.nature.com/articles/1601495 - Dietary supplements of soya flour lower serum testosterone concentrations and improve markers of oxidative stress in men
-- 20 males, placebo controlled, 120 mg/day of isoflavones by soya flour scones
--  **! Study shows statistically significant decrease in testosterone**
+	- 20 males, placebo controlled, 120 mg/day of isoflavones by soya flour scones
+	-  **! Study shows statistically significant decrease in testosterone**
 3. https://sci-hub.se/https://doi.org/10.1016/j.urology.2004.04.009 - EFFECTS OF A DIET RICH IN PHYTOESTROGENS ON PROSTATE-SPECIFIC ANTIGEN AND SEX HORMONES IN MEN DIAGNOSED WITH PROSTATE CANCER
-- 29 males with prostate cancer 117mg/day of isoflavones
-- **! Study doesn't find a statistically significant change in testosterone (does not control time of day for blood sample maybe -is it relevant-?). Also cancer patients**
+	- 29 males with prostate cancer 117mg/day of isoflavones
+	- **! Study doesn't find a statistically significant change in testosterone (does not control time of day for blood sample maybe -is it relevant-?). Also cancer patients**
 4. https://sci-hub.se/https://doi.org/10.1016/j.nutres.2005.12.002 - Soy protein intake by active young adult men raises plasma antioxidant capacity without altering plasma testosterone
-- 30 males (aged 18-30) -  3 groups soy, whey, cakemix -  164 mg/day of isoflavone
-- **! Study doesn't find a statistically significant change in testosterone (does not control time of day for blood sample maybe -is it relevant-?). **
+	- 30 males (aged 18-30) -  3 groups soy, whey, cakemix -  164 mg/day of isoflavone
+	- **! Study doesn't find a statistically significant change in testosterone (does not control time of day for blood sample maybe -is it relevant-?). **
 5. https://sci-hub.se/https://doi.org/10.3109/13685538.2011.565091 - Soy protein based supplementation supports metabolic effects of resistance training in previously untrained middle aged males
-- 40 males (aged 50-65) - 50 g of soy–yogurt–honey that contained 26.7 g protein
-- Measures free testosterone
--  **! Study doesn't find a statistically significant change in testosterone .**
-6. https://sci-hub.se/https://doi.org/10.1093/jn/137.7.1769 - Isoflavone-Rich Soy Protein Isolate Suppresses Androgen Receptor Expression without Altering Estrogen Receptor-b Expression or Serum Hormonal Profiles in Men at High Risk of Prostate Cancer
-- Fifty-eight men, aged 50–85 y, 3 groups (soy isolate, soy isolate with isoflavones removed, milk protein), 107mg/d
-- 6 months
-- "high protein intake has been associated with decreased SHBG"
-- SHBG decreased for all groups
-- **! Study doesn't find a statistically significant change in testosterone .**
+	- 40 males (aged 50-65) - 50 g of soy–yogurt–honey that contained 26.7 g protein
+	- Measures free testosterone
+	-  **! Study doesn't find a statistically significant change in testosterone .**
+1. https://sci-hub.se/https://doi.org/10.1093/jn/137.7.1769 - Isoflavone-Rich Soy Protein Isolate Suppresses Androgen Receptor Expression without Altering Estrogen Receptor-b Expression or Serum Hormonal Profiles in Men at High Risk of Prostate Cancer
+	- Fifty-eight men, aged 50–85 y, 3 groups (soy isolate, soy isolate with isoflavones removed, milk protein), 107mg/d
+	- 6 months
+	- "high protein intake has been associated with decreased SHBG"
+	- SHBG decreased for all groups
+	- **! Study doesn't find a statistically significant change in testosterone .**
 
 
 **Different legumes isoflavones (log scale)**
