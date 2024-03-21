@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Climate/Climate.md",
+                "file": "Soy vs testosterone/Soy vs testosterone.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Climate/Climate.md",
+                "file": "Soy vs testosterone/Soy vs testosterone.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Climate/Climate.md",
+                "file": "Soy vs testosterone/Soy vs testosterone.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Climate/Climate.md"
+                "file": "Soy vs testosterone/Soy vs testosterone.md"
               }
             }
           }
@@ -161,6 +161,7 @@
   },
   "active": "6e9b77fb8a2e2703",
   "lastOpenFiles": [
+    "Climate/Climate.md",
     "Soy vs testosterone/Soy vs testosterone.md",
     "Soy vs testosterone/Pasted image 20240320155009.png",
     "Soy vs testosterone^1.md",
@@ -169,7 +170,6 @@
     "Veganism/Animals Feeling Pain.md",
     "3.md",
     "Soy vs testosterone/Terms.md",
-    "Climate/Climate.md",
     "Soy vs testosterone",
     "Abortion/Abortion.md",
     "Climate",
