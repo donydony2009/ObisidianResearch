@@ -33,18 +33,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Climate/Climate.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c2a17ce53188f8e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Soy vs testosterone/Soy vs testosterone.md",
                 "mode": "source",
                 "source": false
@@ -52,7 +40,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -179,17 +167,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c2a17ce53188f8e8",
+  "active": "4efd3012e4e773da",
   "lastOpenFiles": [
-    "Pasted image 20240320155009.png",
     "Climate/Climate.md",
-    "Veganism/Animals Feeling Pain.md",
-    "Alcohol/Alcohol and memory.md",
     "Soy vs testosterone/Soy vs testosterone.md",
     "Soy vs testosterone",
+    "Pasted image 20240320155009.png",
     "Abortion/Abortion.md",
     "Climate",
+    "Alcohol/Alcohol and memory.md",
     "Alcohol",
+    "Veganism/Animals Feeling Pain.md",
     "Abortion",
     "Veganism"
   ]
