@@ -4,53 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "96d8531f9a50c7e0",
+        "id": "4dc31250a49c133b",
         "type": "tabs",
         "children": [
           {
-            "id": "62ca74ff07bfaea7",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "ff3f920a1f0f24ca",
+            "id": "80f74869e916e245",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Veganism/Animals Feeling Pain.md",
+                "file": "Soy vs testosterone/Soy vs testosterone.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4efd3012e4e773da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Climate/Climate.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c2a17ce53188f8e8",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Soy vs testosterone/img/Pasted image 20240320155009.png"
-              }
-            }
-          },
-          {
-            "id": "18aef5cf1bf097c9",
+            "id": "6e9b77fb8a2e2703",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -62,7 +32,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -189,20 +159,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "18aef5cf1bf097c9",
+  "active": "6e9b77fb8a2e2703",
   "lastOpenFiles": [
     "Soy vs testosterone/img/Pasted image 20240320155009.png",
     "Soy vs testosterone/img",
     "conflict-files-obsidian-git.md",
-    "Soy vs testosterone^1.md",
     "Soy vs testosterone/Soy vs testosterone.md",
-    "Soy vs testosterone/Terms.md",
+    "Soy vs testosterone/Pasted image 20240320155009.png",
     "Climate/Climate.md",
+    "Soy vs testosterone^1.md",
+    "[Soy vs testosterone.md",
+    "[.md",
     "Veganism/Animals Feeling Pain.md",
-    "Alcohol/Alcohol and memory.md",
+    "3.md",
+    "Soy vs testosterone/Terms.md",
     "Soy vs testosterone",
     "Abortion/Abortion.md",
     "Climate",
+    "Alcohol/Alcohol and memory.md",
     "Alcohol",
     "Abortion",
     "Veganism"
