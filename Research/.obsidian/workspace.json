@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Soy vs testosterone/Terms.md",
+                "file": "Soy vs testosterone/Soy vs testosterone.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Soy vs testosterone/Terms.md",
+                "file": "Soy vs testosterone/Soy vs testosterone.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Soy vs testosterone/Terms.md",
+                "file": "Soy vs testosterone/Soy vs testosterone.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Soy vs testosterone/Terms.md"
+                "file": "Soy vs testosterone/Soy vs testosterone.md"
               }
             }
           }
@@ -169,8 +169,8 @@
   },
   "active": "4efd3012e4e773da",
   "lastOpenFiles": [
-    "Soy vs testosterone/Soy vs testosterone.md",
     "Soy vs testosterone/Terms.md",
+    "Soy vs testosterone/Soy vs testosterone.md",
     "Climate/Climate.md",
     "Soy vs testosterone",
     "Pasted image 20240320155009.png",
