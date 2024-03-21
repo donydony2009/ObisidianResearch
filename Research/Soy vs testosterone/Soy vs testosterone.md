@@ -17,7 +17,8 @@
 - **! Study shows statistically significant decrease in testosterone**
 
 2. https://sci-hub.se/https://www.nature.com/articles/1601495 - Dietary supplements of soya flour lower serum testosterone concentrations and improve markers of oxidative stress in men
-- 20 males, placebo controlled, 120 mg/day of isoflavones
+- 20 males, placebo controlled, 120 mg/day of isoflavones by soya flour scones
+-  **! Study shows statistically significant decrease in testosterone**
 
 
 **Different legumes isoflavones**
