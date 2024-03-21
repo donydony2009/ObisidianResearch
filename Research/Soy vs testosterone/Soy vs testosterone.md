@@ -37,6 +37,8 @@
 	- "high protein intake has been associated with decreased SHBG"
 	- SHBG decreased for all groups
 	- **! Study doesn't find a statistically significant change in testosterone .**
+7. https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0068331 - Short-Term Soy Isoflavone Intervention in Patients with Localized Prostate Cancer: A Randomized, Double-Blind, Placebo-Controlled Trial
+	- 86 men, age 50-84, 2 groups 1 placebo one isoflavones 
 
 
 **Different legumes isoflavones (log scale)**
