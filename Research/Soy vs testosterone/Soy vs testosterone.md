@@ -31,7 +31,7 @@
 	- 40 males (aged 50-65) - 50 g of soy–yogurt–honey that contained 26.7 g protein
 	- Measures free testosterone
 	-  **! Study doesn't find a statistically significant change in testosterone .**
-1. https://sci-hub.se/https://doi.org/10.1093/jn/137.7.1769 - Isoflavone-Rich Soy Protein Isolate Suppresses Androgen Receptor Expression without Altering Estrogen Receptor-b Expression or Serum Hormonal Profiles in Men at High Risk of Prostate Cancer
+6. https://sci-hub.se/https://doi.org/10.1093/jn/137.7.1769 - Isoflavone-Rich Soy Protein Isolate Suppresses Androgen Receptor Expression without Altering Estrogen Receptor-b Expression or Serum Hormonal Profiles in Men at High Risk of Prostate Cancer
 	- Fifty-eight men, aged 50–85 y, 3 groups (soy isolate, soy isolate with isoflavones removed, milk protein), 107mg/d
 	- 6 months
 	- "high protein intake has been associated with decreased SHBG"
