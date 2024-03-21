@@ -11,8 +11,11 @@
 
 **Individual studies**
 1. https://sci-hub.se/10.1158/1055-9965.EPI-06-0882 - Clinical and Biological Activity of Soy Protein Powder Supplementation in Healthy Male Volunteers
+- 18 males no placebo ages -18-47 mean 31?-
 - "testosterone levels peak in the early morning and decrease by 25% to the evening minimum"
 - "levels increase after exercise and decrease after immobilization and after glucose load"
+- **! Study shows statistically significant decrease in testosterone**
+2. 
 
 
 **Different legumes isoflavones**
