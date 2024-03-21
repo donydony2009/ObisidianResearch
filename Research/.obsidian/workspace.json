@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6e9b77fb8a2e2703",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Climate/Climate.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Soy vs testosterone/Soy vs testosterone.md",
+                "file": "Climate/Climate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Soy vs testosterone/Soy vs testosterone.md",
+                "file": "Climate/Climate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Soy vs testosterone/Soy vs testosterone.md"
+                "file": "Climate/Climate.md"
               }
             }
           }
@@ -146,10 +159,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "80f74869e916e245",
+  "active": "6e9b77fb8a2e2703",
   "lastOpenFiles": [
-    "Soy vs testosterone^1.md",
     "Soy vs testosterone/Soy vs testosterone.md",
+    "Soy vs testosterone/Pasted image 20240320155009.png",
+    "Soy vs testosterone^1.md",
     "[Soy vs testosterone.md",
     "[.md",
     "Veganism/Animals Feeling Pain.md",
@@ -157,7 +171,6 @@
     "Soy vs testosterone/Terms.md",
     "Climate/Climate.md",
     "Soy vs testosterone",
-    "Pasted image 20240320155009.png",
     "Abortion/Abortion.md",
     "Climate",
     "Alcohol/Alcohol and memory.md",
