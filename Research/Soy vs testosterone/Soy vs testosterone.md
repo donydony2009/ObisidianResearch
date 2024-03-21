@@ -11,11 +11,13 @@
 
 **Individual studies**
 1. https://sci-hub.se/10.1158/1055-9965.EPI-06-0882 - Clinical and Biological Activity of Soy Protein Powder Supplementation in Healthy Male Volunteers
-- 18 males no placebo ages -18-47 mean 31?-
+- 18 males no placebo ages -18-47 mean 31?- , 56g of protein powder
 - "testosterone levels peak in the early morning and decrease by 25% to the evening minimum"
 - "levels increase after exercise and decrease after immobilization and after glucose load"
 - **! Study shows statistically significant decrease in testosterone**
-2. 
+
+2. https://sci-hub.se/https://www.nature.com/articles/1601495 - Dietary supplements of soya flour lower serum testosterone concentrations and improve markers of oxidative stress in men
+- 20 males, placebo controlled, 120 mg/day of isoflavones
 
 
 **Different legumes isoflavones**
