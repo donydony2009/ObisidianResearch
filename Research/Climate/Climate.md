@@ -1,9 +1,9 @@
 Official name?
-Climate change, global warming was only coloqually used
+Climate change, global warming was only colloquially used
 Modern climate change - https://sci-hub.se/10.1126/science.1090228
 
 Terms:
-	Climate forcing - phisical process of affecting the climate on the Earth through a number of forcing factors. Forcing factors are  anything that drives the climate to change
+	Climate forcing - physical process of affecting the climate on the Earth through a number of forcing factors. Forcing factors are  anything that drives the climate to change
 	Climate sensitivity - How much will temperature change if we double the CO2 compared to preindustrial
 
 
