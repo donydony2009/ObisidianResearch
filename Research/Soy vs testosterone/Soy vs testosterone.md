@@ -19,6 +19,8 @@
 2. https://sci-hub.se/https://www.nature.com/articles/1601495 - Dietary supplements of soya flour lower serum testosterone concentrations and improve markers of oxidative stress in men
 - 20 males, placebo controlled, 120 mg/day of isoflavones by soya flour scones
 -  **! Study shows statistically significant decrease in testosterone**
+3. https://sci-hub.se/https://doi.org/10.1016/j.urology.2004.04.009 - EFFECTS OF A DIET RICH IN PHYTOESTROGENS ON PROSTATE-SPECIFIC ANTIGEN AND SEX HORMONES IN MEN DIAGNOSED WITH PROSTATE CANCER
+- 29 males with prostate cancer
 
 
 **Different legumes isoflavones**
