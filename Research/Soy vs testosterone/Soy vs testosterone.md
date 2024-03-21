@@ -21,7 +21,8 @@
 -  **! Study shows statistically significant decrease in testosterone**
 3. https://sci-hub.se/https://doi.org/10.1016/j.urology.2004.04.009 - EFFECTS OF A DIET RICH IN PHYTOESTROGENS ON PROSTATE-SPECIFIC ANTIGEN AND SEX HORMONES IN MEN DIAGNOSED WITH PROSTATE CANCER
 - 29 males with prostate cancer 117mg/day of isoflavones
-- 
+- **! Study doesn't find a statistically significant change in testosterone. But it does not control time of day for blood sample. Also cancer patients**
+4. https://sci-hub.se/https://doi.org/10.1016/j.nutres.2005.12.002 - Soy protein intake by active young adult men raises plasma antioxidant capacity without altering plasma testosterone
 
 
 **Different legumes isoflavones**
