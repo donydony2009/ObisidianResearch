@@ -33,7 +33,7 @@
 - Fifty-eight men, aged 50–85 y, 3 groups (soy isolate, soy isolate with isoflavones removed, milk protein), 107mg/d
 - 6 months
 - "high protein intake has been associated with decreased SHBG"
-- SHBG decreased 
+- SHBG decreased for all groups
 
 
 **Different legumes isoflavones**
