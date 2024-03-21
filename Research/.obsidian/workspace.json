@@ -21,18 +21,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Veganism/Animals Feeling Pain.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4efd3012e4e773da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Soy vs testosterone/Soy vs testosterone.md",
                 "mode": "source",
                 "source": false
@@ -40,7 +28,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -167,10 +155,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4efd3012e4e773da",
+  "active": "ff3f920a1f0f24ca",
   "lastOpenFiles": [
-    "Soy vs testosterone/Terms.md",
+    "Veganism/Animals Feeling Pain.md",
+    "[.md",
     "Soy vs testosterone/Soy vs testosterone.md",
+    "3.md",
+    "Soy vs testosterone/Terms.md",
     "Climate/Climate.md",
     "Soy vs testosterone",
     "Pasted image 20240320155009.png",
@@ -178,7 +169,6 @@
     "Climate",
     "Alcohol/Alcohol and memory.md",
     "Alcohol",
-    "Veganism/Animals Feeling Pain.md",
     "Abortion",
     "Veganism"
   ]
