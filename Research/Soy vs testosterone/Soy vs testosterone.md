@@ -13,45 +13,46 @@
 	- In Figure 2 randomly study that is against their conclusion is missing??? Ew
 	- **!  Doesn't find statistically significant correlation.  But it's Messina and I this point I kinda question the integrity**
 3. https://sci-hub.se/https://doi.org/10.1158/1055-9965.EPI-07-2768 - Effect of Soy Protein on Testosterone Levels
-	- 
+	- Based does not compromise on removing valid data. Instead uses robust to outliers stats tehniques
 
 ### Individual studies
 
 1. https://sci-hub.se/10.1158/1055-9965.EPI-06-0882 - Clinical and Biological Activity of Soy Protein Powder Supplementation in Healthy Male Volunteers
+	- Based! Does not compromise on removing valid data. Instead uses robust to outliers stats techniques
 	- 18 males no placebo ages -18-47 mean 31?- , 56g of protein powder ^abc
 	- "testosterone levels peak in the early morning and decrease by 25% to the evening minimum"
 	- "levels increase after exercise and decrease after immobilization and after glucose load"
 	- **! Study shows statistically significant decrease in testosterone**
 
-2. https://sci-hub.se/https://www.nature.com/articles/1601495 - Dietary supplements of soya flour lower serum testosterone concentrations and improve markers of oxidative stress in men
+3. https://sci-hub.se/https://www.nature.com/articles/1601495 - Dietary supplements of soya flour lower serum testosterone concentrations and improve markers of oxidative stress in men
 	- 20 males, placebo controlled, 120 mg/day of isoflavones by soya flour scones
 	-  **! Study shows statistically significant decrease in testosterone**
-3. https://sci-hub.se/https://doi.org/10.1016/j.urology.2004.04.009 - EFFECTS OF A DIET RICH IN PHYTOESTROGENS ON PROSTATE-SPECIFIC ANTIGEN AND SEX HORMONES IN MEN DIAGNOSED WITH PROSTATE CANCER
+4. https://sci-hub.se/https://doi.org/10.1016/j.urology.2004.04.009 - EFFECTS OF A DIET RICH IN PHYTOESTROGENS ON PROSTATE-SPECIFIC ANTIGEN AND SEX HORMONES IN MEN DIAGNOSED WITH PROSTATE CANCER
 	- 29 males with prostate cancer 117mg/day of isoflavones
 	- **! Study doesn't find a statistically significant change in testosterone (does not control time of day for blood sample maybe -is it relevant-?). Also cancer patients**
-4. https://sci-hub.se/https://doi.org/10.1016/j.nutres.2005.12.002 - Soy protein intake by active young adult men raises plasma antioxidant capacity without altering plasma testosterone
+5. https://sci-hub.se/https://doi.org/10.1016/j.nutres.2005.12.002 - Soy protein intake by active young adult men raises plasma antioxidant capacity without altering plasma testosterone
 	- 30 males (aged 18-30) -  3 groups soy, whey, cakemix -  164 mg/day of isoflavone
 	- **! Study doesn't find a statistically significant change in testosterone (does not control time of day for blood sample maybe -is it relevant-?). **
-5. https://sci-hub.se/https://doi.org/10.3109/13685538.2011.565091 - Soy protein based supplementation supports metabolic effects of resistance training in previously untrained middle aged males
+6. https://sci-hub.se/https://doi.org/10.3109/13685538.2011.565091 - Soy protein based supplementation supports metabolic effects of resistance training in previously untrained middle aged males
 	- 40 males (aged 50-65) - 50 g of soy–yogurt–honey that contained 26.7 g protein
 	- Measures free testosterone
 	-  **! Study doesn't find a statistically significant change in testosterone .**
-6. https://sci-hub.se/https://doi.org/10.1093/jn/137.7.1769 - Isoflavone-Rich Soy Protein Isolate Suppresses Androgen Receptor Expression without Altering Estrogen Receptor-b Expression or Serum Hormonal Profiles in Men at High Risk of Prostate Cancer
+7. https://sci-hub.se/https://doi.org/10.1093/jn/137.7.1769 - Isoflavone-Rich Soy Protein Isolate Suppresses Androgen Receptor Expression without Altering Estrogen Receptor-b Expression or Serum Hormonal Profiles in Men at High Risk of Prostate Cancer
 	- Fifty-eight men, aged 50–85 y, 3 groups (soy isolate, soy isolate with isoflavones removed, milk protein), 107mg/d
 	- 6 months
 	- "high protein intake has been associated with decreased SHBG"
 	- SHBG decreased for all groups
 	- **! Study doesn't find a statistically significant change in testosterone .**
-7. https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0068331 - Short-Term Soy Isoflavone Intervention in Patients with Localized Prostate Cancer: A Randomized, Double-Blind, Placebo-Controlled Trial
+8. https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0068331 - Short-Term Soy Isoflavone Intervention in Patients with Localized Prostate Cancer: A Randomized, Double-Blind, Placebo-Controlled Trial
 	- 86 men, age 50-84, 2 groups 1 placebo one isoflavones 
 	- - **! Study doesn't find a statistically significant change in testosterone .**
-8. https://sci-hub.se/10.1038/s41598-018-29591-4 - Soy protein supplementation is not androgenic or estrogenic in collegeaged men when combined with resistance exercise training
+9. https://sci-hub.se/10.1038/s41598-018-29591-4 - Soy protein supplementation is not androgenic or estrogenic in collegeaged men when combined with resistance exercise training
 	- 47 men, age 19-21, 3 groups, soy, whey, placebo,
 	- 12 weeks
 	- There is evidence whey or soy protein supplementation may afect sex hormone signaling mechanisms
 	- In terms of muscle growth no significant difference was observed between the 3 groups
 	-  **! Study doesn't find a statistically significant change in testosterone . But there was a small not statistically significant decrease in testosterone in soy ppl despite exercise being linked generally with an increase. Additionally for whey there was a big increase in testostrone**
-9. https://sci-hub.se/10.1186/1550-2783-4-4 - Effect of protein source and resistance training on body composition and sex hormones
+10. https://sci-hub.se/10.1186/1550-2783-4-4 - Effect of protein source and resistance training on body composition and sex hormones
 	- 20 men, age 18-40, 4 groups: soy concentrate soy isolate, whey blend, and 50:50 soy+whey, 138mg/day of isoflavone, 49mg/d and 28mg/d
 	- 12 weeks
 	- Soy concentrate had a concentration of 2.7x higher isoflavones vs soy isolate and the mix was half of the soy isolate(concentrate:276mg/100g, isolate: 98mg/100g, mix: 48mg/100g)
