@@ -97,6 +97,9 @@
 19. https://sci-hub.se/10.1038/pcan.2009.10 - Isoflavone supplements stimulated the production of serum equol and decreased the serum dihydrotestosterone levels in healthy male volunteers
 	- 28 males, age 30-59y, 18 equol producers 10 equol non-producers, 5 tablets of Isofla A, 60mg/d isoflavone
 	- 3 months
+	- Only equol producers got the statistically significant decrease
+	- Additionally 2 new equal producers appeared at the end of the study out of the non producers
+	- **! Mean level SHBG increased P<0.05. Free testosterone decreased P<0.05. DHT decreased P<0.05. Also there was a difference between Equol producers and non-producers**
 
 **Different legumes isoflavones (log scale)**
 ![[Pasted image 20240320155009.png]]
