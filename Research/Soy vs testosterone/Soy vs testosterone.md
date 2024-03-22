@@ -41,7 +41,8 @@
 	- 86 men, age 50-84, 2 groups 1 placebo one isoflavones 
 	- - **! Study doesn't find a statistically significant change in testosterone .**
 8. https://sci-hub.se/10.1038/s41598-018-29591-4 - Soy protein supplementation is not androgenic or estrogenic in collegeaged men when combined with resistance exercise training
-	- 47 
+	- 47 men, age 19-21, 3 groups, soy, whey, placebo,
+	- 12 weeks
 	- There is evidence whey or soy protein supplementation may afect sex hormone signaling mechanisms
 
 
