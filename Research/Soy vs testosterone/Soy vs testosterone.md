@@ -68,7 +68,10 @@
 	- **! Study doesn't find a statistically significant change in testosterone. BUT people are old and dose is small**
 13. https://sci-hub.se/10.1210/jcem.86.7.7645 - Dietary Soy Has Both Beneficial and Potentially Adverse Cardiovascular Effects: A Placebo-Controlled Study in Men and Postmenopausal Women
 	- 108 men and 105 post-menopausal women, age 50-75y. fking old. 118mg/d isoflavones
-	- **! No statistically signf**
+	- **! No statistically significant change is testosterone**
+14. https://www.sciencedirect.com/science/article/pii/S0022316622101008 - Soy Protein Isolates of Varying Isoflavone Content Exert Minor Effects on Serum Reproductive Hormones in Healthy Young Men
+	- z
+	- "including one study that reported a 70% reduction in prostate cancer risk associated with consumption of soy milk among Seventh Day Adventist men" ([[^13|13]])
 
 **Different legumes isoflavones (log scale)**
 ![[Pasted image 20240320155009.png]]
@@ -98,3 +101,7 @@ References
 [11] V. Speirs, P.J. Carder, S. Lane, D. Dodwell, M.R. Lansdown, A.M. Hanby, Oestrogen receptor beta: what it means for patients with breast cancer, Lancet Oncol. 5 (2004) 174–181.  ^11
 
 [12] D.G. Pons, M. Nadal-Serrano, M. Torrens-Mas, J. Oliver, P. Roca, The phytoestrogen genistein affects breast cancer cells treatment depending on the ERalpha/ERbeta ratio, J. Cell. Biochem. 117 (2016) 218–229. ^12
+
+[13] Jacobsen B.K., Knutsen S.F., Fraser G.E.
+Does high soy milk intake reduce prostate cancer incidence? The Adventist Health Study (United States)
+Cancer Causes Control, 9 (1998), pp. 553-557 ^13
