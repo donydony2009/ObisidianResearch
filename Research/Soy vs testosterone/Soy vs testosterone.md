@@ -70,7 +70,8 @@
 	- 108 men and 105 post-menopausal women, age 50-75y. fking old. 118mg/d isoflavones
 	- **! No statistically significant change is testosterone**
 14. https://www.sciencedirect.com/science/article/pii/S0022316622101008 - Soy Protein Isolates of Varying Isoflavone Content Exert Minor Effects on Serum Reproductive Hormones in Healthy Young Men
-	- z
+	- 35 men, age 20-40, 3 groups, soy, soy without isoflavones and whey, 0.75mg/kg/d so 60mg/d at 80kg
+	- 32 week
 	- "including one study that reported a 70% reduction in prostate cancer risk associated with consumption of soy milk among Seventh Day Adventist men" ([[^13|13]])
 
 **Different legumes isoflavones (log scale)**
