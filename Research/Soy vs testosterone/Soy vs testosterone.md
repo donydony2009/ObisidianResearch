@@ -95,7 +95,8 @@
 	- Was a pilot study for the women counter part
 	- **! No change in testosterone was statistically significant. But there was a statistically significant reduced SHBG with return to normal after soy (this means that it would have the opposite effect of leaving more free testosterone?)**
 19. https://sci-hub.se/10.1038/pcan.2009.10 - Isoflavone supplements stimulated the production of serum equol and decreased the serum dihydrotestosterone levels in healthy male volunteers
-	- 28 males, age 31-42y,
+	- 28 males, age 30-59y, 18 equol producers 10 equol non-producers, 5 tablets of Isofla A, 60mg/d isoflavone
+	- 3 months
 
 **Different legumes isoflavones (log scale)**
 ![[Pasted image 20240320155009.png]]
