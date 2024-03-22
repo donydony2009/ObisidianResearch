@@ -88,8 +88,10 @@
 	- 4 weeks followed with another 3weeks + vitamin E
 	- **! No change in testosterone was statistically significant. Dose was kinda small. Also on the first 4 weeks there was a small decrease in testosterone but then in the next 3 weeks there was an increase so prob some random fluctuations**
 17. https://sci-hub.se/https://doi.org/10.1016/S0039-128X(01)00129-5 - The effect of isoflavone extract ingestion, as Trinovin, on plasma steroids in normal men
-	- 6 males, 40-53y, 40mg/d through Trinovin an isoflavone extract
-	-  **! No change in testosterone was statistically significant. DHT has increased though significantly**
+	- 6 males, 40-53y, 40mg/d through Trinovin an isoflavone extracted from red clover
+	-  **! No change in testosterone was statistically significant. Low dose, low participants. DHT has increased though significantly**
+18. https://sci-hub.se/https://iubmb.onlinelibrary.wiley.com/doi/10.1002/biof.5520120138 - The effects of soy protein in women and men with elevated plasma lipids
+	- 
 
 **Different legumes isoflavones (log scale)**
 ![[Pasted image 20240320155009.png]]
