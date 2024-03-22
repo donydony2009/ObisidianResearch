@@ -52,10 +52,14 @@
 	- Soy concentrate had a concentration of 2.7x higher isoflavones vs soy isolate and the mix was half of the soy isolate(concentrate:276mg/100g, isolate: 98mg/100g, mix: 48mg/100g)
 	-  **! Study doesn't find a statistically significant change in testosterone. BUT in the soy concentrate group (max isoflavones) there was a small not statistically significant decrease in testosterone. Also big increases in Soy isolate and the mix.**
 --------------------------------------------
-**At this point I am no longer gonna look at prostate cancer studies. Seems pretty clear to me that in aging men there is not much of a influence by isoflavones**
+**At this point I am no longer gonna look at prostate cancer studies. Seems pretty clear to me that in aging men there is not much of a influence of testosterone by isoflavones**
 
 ---------------------------------------------------------------------------
-10. https://pubmed.ncbi.nlm.nih.gov/11303585/ - # Effect of soymilk consumption on serum estrogen and androgen concentrations in Japanese men
+10. https://pubmed.ncbi.nlm.nih.gov/11303585/ - Effect of soymilk consumption on serum estrogen and androgen concentrations in Japanese men
+	- Could not read the study cause I couldn't access it
+	- **! In the abstract they claim no statistically significant change was observed**
+11. https://sci-hub.se/https://doi.org/10.3945/jn.116.231803 - Protein Supplementation Has Minimal Effects on Muscle Adaptations during Resistance Exercise Training in Young Men: A Double-Blind Randomized Clinical Trial
+	- 71 men, age ~25
 
 
 **Different legumes isoflavones (log scale)**
