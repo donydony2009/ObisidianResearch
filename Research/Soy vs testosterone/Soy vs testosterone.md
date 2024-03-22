@@ -99,6 +99,7 @@
 	- 3 months
 	- Only equol producers got the statistically significant decrease
 	- Additionally 2 new equal producers appeared at the end of the study out of the non producers
+	- Isofla A had other nutrients in it and interactions were not considered (it had vitamin E, there was another study about this)
 	- **! Mean level SHBG increased P<0.05. Free testosterone decreased P<0.05. DHT decreased P<0.05. Also there was a difference between Equol producers and non-producers**
 
 **Different legumes isoflavones (log scale)**
