@@ -44,6 +44,7 @@
 	- 47 men, age 19-21, 3 groups, soy, whey, placebo,
 	- 12 weeks
 	- There is evidence whey or soy protein supplementation may afect sex hormone signaling mechanisms
+	-  **! Study doesn't find a statistically significant change in testosterone . But**
 
 
 **Different legumes isoflavones (log scale)**
