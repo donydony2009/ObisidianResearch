@@ -61,7 +61,7 @@
 11. https://sci-hub.se/https://doi.org/10.3945/jn.116.231803 - Protein Supplementation Has Minimal Effects on Muscle Adaptations during Resistance Exercise Training in Young Men: A Double-Blind Randomized Clinical Trial
 	- 71 men, age ~25, 3 groups, placebo, whey, soy; 22g/d
 	- No difference in strength gain
-	- **! Study doesn't find a statistically significant change in testosterone. BUT I could access the data.**
+	- **! Study doesn't find a statistically significant change in testosterone. BUT I could access the data. Also the does was kinda low**
 
 
 **Different legumes isoflavones (log scale)**
