@@ -82,6 +82,7 @@
 16. https://sci-hub.se/https://doi.org/10.3177/jnsv.47.283 - Effects of Soy Protein on Levels of Remnant-like Particles Cholesterol and Vitamin E in Healthy Men
 	- 14 males, ages 27-35y, 2 groups, 20g
 	- 4 weeks
+	- **! No change in testosterone was statistically si**
 
 **Different legumes isoflavones (log scale)**
 ![[Pasted image 20240320155009.png]]
