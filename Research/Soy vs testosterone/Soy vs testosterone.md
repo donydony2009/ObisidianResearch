@@ -62,7 +62,8 @@
 	- 71 men, age ~25, 3 groups, placebo, whey, soy; 22g/d
 	- No difference in strength gain
 	- **! Study doesn't find a statistically significant change in testosterone. BUT I could access the data. Also the does was kinda low**
-
+12. https://www.frontiersin.org/journals/endocrinology/articles/10.3389/fendo.2019.00229/full - The Effect of Soy Isoflavones on Steroid Metabolism
+	- 
 
 **Different legumes isoflavones (log scale)**
 ![[Pasted image 20240320155009.png]]
