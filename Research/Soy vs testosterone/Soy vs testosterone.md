@@ -44,8 +44,10 @@
 	- 47 men, age 19-21, 3 groups, soy, whey, placebo,
 	- 12 weeks
 	- There is evidence whey or soy protein supplementation may afect sex hormone signaling mechanisms
-	- In terms of muscle growth 
+	- In terms of muscle growth no significant difference was observed between the 3 groups
 	-  **! Study doesn't find a statistically significant change in testosterone . But there was a small not statistically significant decrease in testosterone in soy ppl despite exercise being linked generally with an increase. Additionally for whey there was a big increase in testostrone**
+9. https://sci-hub.se/10.1186/1550-2783-4-4 - Effect of protein source and resistance training on body composition and sex hormones
+	- 
 
 
 **Different legumes isoflavones (log scale)**
