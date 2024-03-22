@@ -40,6 +40,9 @@
 7. https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0068331 - Short-Term Soy Isoflavone Intervention in Patients with Localized Prostate Cancer: A Randomized, Double-Blind, Placebo-Controlled Trial
 	- 86 men, age 50-84, 2 groups 1 placebo one isoflavones 
 	- - **! Study doesn't find a statistically significant change in testosterone .**
+8. https://sci-hub.se/10.1038/s41598-018-29591-4 - Soy protein supplementation is not androgenic or estrogenic in collegeaged men when combined with resistance exercise training
+	- 47 
+	- There is evidence whey or soy protein supplementation may afect sex hormone signaling mechanisms
 
 
 **Different legumes isoflavones (log scale)**
