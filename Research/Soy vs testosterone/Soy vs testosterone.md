@@ -91,7 +91,9 @@
 	- 6 males, 40-53y, 40mg/d through Trinovin an isoflavone extracted from red clover
 	-  **! No change in testosterone was statistically significant. Low dose, low participants. DHT has increased though significantly**
 18. https://sci-hub.se/https://iubmb.onlinelibrary.wiley.com/doi/10.1002/biof.5520120138 - The effects of soy protein in women and men with elevated plasma lipids
-	- 
+	- 27 male, age 51 mean, 65mg/d of isoflavones
+	- Was a pilot study for the women counter part
+	- **! No change in testosterone was statistically significant. But there was a statistically significant reduced SHBG with return to normal after soy (this means that it would have the opposite effect of leaving more free testosterone??)**
 
 **Different legumes isoflavones (log scale)**
 ![[Pasted image 20240320155009.png]]
