@@ -8,7 +8,9 @@
 	- Isoflavone has a similar chemical structure to the hormone estrogen which allows them to bind to estrogen receptors (ER)([[^5|5]], [[^6|6]])
 	- However, isoflavones differ from estrogen at the molecular level in that they preferentially bind to and activate ERβ in comparison to ERα whereas estrogen has equal affinity for both receptors ([[^7|7-9]]). This difference in binding preference is important because the two ERs have different tissue distributions and, when activated, can exert different and sometimes opposite physiological effects ([[^10|10]],[[^11|11]]).
 	- **! Conflict of interest. One of the researcher regularly consults soy product producers. Messina is the name**
-
+2. https://www.sciencedirect.com/science/article/abs/pii/S0015028209009662 - Clinical studies show no effects of soy protein or isoflavones on reproductive hormones in men: results of a meta-analysis
+	- Messina again. The one from previous study that had a conflict of interest
+	- In Figure 2 randomly study that is against their conclusion is missing??? Ew
 
 ### Individual studies
 
