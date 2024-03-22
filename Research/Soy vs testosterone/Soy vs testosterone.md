@@ -47,9 +47,11 @@
 	- In terms of muscle growth no significant difference was observed between the 3 groups
 	-  **! Study doesn't find a statistically significant change in testosterone . But there was a small not statistically significant decrease in testosterone in soy ppl despite exercise being linked generally with an increase. Additionally for whey there was a big increase in testostrone**
 9. https://sci-hub.se/10.1186/1550-2783-4-4 - Effect of protein source and resistance training on body composition and sex hormones
-	- 20 men, age 18-40, 4 groups: soy concentrate soy isolate, whey blend, and 50:50 soy+whey, 138mg/day of isoflavone
+	- 20 men, age 18-40, 4 groups: soy concentrate soy isolate, whey blend, and 50:50 soy+whey, 138mg/day of isoflavone, 49mg/d and 28mg/d
 	- 12 weeks
 	- Soy concentrate had a concentration of 2.7x higher isoflavones vs soy isolate and the mix was half of the soy isolate(concentrate:276mg/100g, isolate: 98mg/100g, mix: 48mg/100g)
+	-  **! Study doesn't find a statistically significant change in testosterone. BUT in the soy concentrate group (max isoflavones) there was a small not statistically significant decrease in testosterone. Also big increases in Soy isolate and the mix.**
+
 
 
 **Different legumes isoflavones (log scale)**
