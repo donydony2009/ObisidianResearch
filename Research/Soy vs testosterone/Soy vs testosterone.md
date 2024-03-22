@@ -81,8 +81,8 @@
 	- **! Wow what a retarded study. It tells you just the testosterone after without before? wtf? Just all around kinda shit. But yea basically nothing statistically significant. Although without the initial values who knows wtf is anything supposed to mean.**
 16. https://sci-hub.se/https://doi.org/10.3177/jnsv.47.283 - Effects of Soy Protein on Levels of Remnant-like Particles Cholesterol and Vitamin E in Healthy Men
 	- 14 males, ages 27-35y, 2 groups, 20g
-	- 4 weeks
-	- **! No change in testosterone was statistically si**
+	- 4 weeks followed with another 3weeks + vitamin E
+	- **! No change in testosterone was statistically significant. Does was kinda small. Also on the first 4 weeks there was a small decrease in testosterone but then in the next 3 weeks there was an increase so prob some random fluctuations**
 
 **Different legumes isoflavones (log scale)**
 ![[Pasted image 20240320155009.png]]
