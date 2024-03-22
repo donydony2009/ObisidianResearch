@@ -75,6 +75,7 @@
 	- still kinda low isoflavones
 	- "including one study that reported a 70% reduction in prostate cancer risk associated with consumption of soy milk among Seventh Day Adventist men" ([[^13|13]])
 	- **! No statistically significant change in testosterone. BUT dose was kinda low, and there was statistically significant decrease of DHT in both low isoflavone and high isoflavone soy groups**
+15. https://sci-hub.se/10.1017/s0007114500001872
 
 **Different legumes isoflavones (log scale)**
 ![[Pasted image 20240320155009.png]]
