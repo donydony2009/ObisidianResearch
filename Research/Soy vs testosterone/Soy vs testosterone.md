@@ -63,7 +63,9 @@
 	- No difference in strength gain
 	- **! Study doesn't find a statistically significant change in testosterone. BUT I could access the data. Also the does was kinda low**
 12. https://www.frontiersin.org/journals/endocrinology/articles/10.3389/fendo.2019.00229/full - The Effect of Soy Isoflavones on Steroid Metabolism
-	- 
+	- 200 men, age 45-75, 15 soy 66mg/d isoflavones
+	- low dose
+	- **! Study doesn't find a statistically significant change in testosterone. BUT people are old and dose is small**
 
 **Different legumes isoflavones (log scale)**
 ![[Pasted image 20240320155009.png]]
