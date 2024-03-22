@@ -12,8 +12,6 @@
 	- Messina again. The one from previous study that had a conflict of interest
 	- In Figure 2 randomly study that is against their conclusion is missing??? Ew
 	- **!  Doesn't find statistically significant correlation.  But it's Messina and I this point I kinda question the integrity**
-3. https://sci-hub.se/https://doi.org/10.1158/1055-9965.EPI-07-2768 - Effect of Soy Protein on Testosterone Levels
-	- Based does not compromise on removing valid data. Instead uses robust to outliers stats tehniques
 
 ### Individual studies
 
@@ -22,7 +20,7 @@
 	- 18 males no placebo ages -18-47 mean 31?- , 56g of protein powder ^abc
 	- "testosterone levels peak in the early morning and decrease by 25% to the evening minimum"
 	- "levels increase after exercise and decrease after immobilization and after glucose load"
-	- **! Study shows statistically significant decrease in testosterone**
+	- **! Study shows statistically significant decrease in testosterone. There was one outlier**
 
 3. https://sci-hub.se/https://www.nature.com/articles/1601495 - Dietary supplements of soya flour lower serum testosterone concentrations and improve markers of oxidative stress in men
 	- 20 males, placebo controlled, 120 mg/day of isoflavones by soya flour scones
