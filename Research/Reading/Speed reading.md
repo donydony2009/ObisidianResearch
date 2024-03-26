@@ -10,4 +10,4 @@
 		2. Do learners’ ages impact learning from extensive reading differently? 
 		3. Does length of extensive reading instruction influence test scores? If so, how long is an appropriate period of instruction? 
 		4. What kinds of tests were utilized to determine the effects of extensive reading?
-	- **!  The impact of extended reading can be seen across all age groups. The main area of improvement is reading speed, followed closely by **
+	- **!  The impact of extended reading can be seen across all age groups. The main area of improvement is reading speed, followed closely by comprehension. Vocabulary only marginally improved in the group studies but in the pre-post studies it improved one standard deviation (so prob it improves too).**
