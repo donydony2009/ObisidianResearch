@@ -23,6 +23,7 @@
 	- **! For reading silently: Average reading rate 238 (95%CI 230-246). Small tests did not produce faster reading rates compared to longer tests but rather about the same, but variability was increased for small tests**
 	- **! For reading aloud: Average reading rate of 183 (95%CI 177-189**
 	- **! In terms of reading speed a study found no difference between reading of LCD vs high quality hard copy.**
+	- **! In terms of age differences (with no vision impairment) no significant reading comprehension, nor speed was found**
 
 
 #### Individual studies
