@@ -16,3 +16,7 @@
 	- **! That being said a some stuff didn't reach the criteria of statistical significance which might indicate that it's not always the case that extensive reading helps.**
 2. https://sci-hub.se/10.1016/j.jml.2019.104047 - How many words do we read per minute? A review and meta-analysis of reading rate
 	- 18573 participants
+
+
+#### Individual studies
+1. https://sci-hub.se/https://doi.org/10.1177/1529100615623267 - So Much to Read, So Little Time: How Do We Read, and Can Speed Reading Help?
