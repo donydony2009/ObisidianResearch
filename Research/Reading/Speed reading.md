@@ -15,7 +15,11 @@
 	- **! The impact of extended reading can be seen across all age groups. The main area of improvement is reading speed, followed closely by comprehension. Vocabulary only marginally improved in the group studies but in the pre-post studies it improved one standard deviation (so prob it improves too).**
 	- **! That being said a some stuff didn't reach the criteria of statistical significance which might indicate that it's not always the case that extensive reading helps.**
 2. https://sci-hub.se/10.1016/j.jml.2019.104047 - How many words do we read per minute? A review and meta-analysis of reading rate
-	- 18573 participants
+	- 18573 participants, native speakers, predominantly undergrads
+	- Mostly English, but there are other languages too
+	- 2 questions:
+		1. what is the average rate of silent reading
+		2. is it faster for short tests than for long tests?
 
 
 #### Individual studies
