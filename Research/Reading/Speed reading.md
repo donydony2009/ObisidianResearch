@@ -17,10 +17,10 @@
 2. https://sci-hub.se/10.1016/j.jml.2019.104047 - How many words do we read per minute? A review and meta-analysis of reading rate
 	- 18573 participants, native speakers, predominantly undergrads
 	- Mostly English, but there are other languages too
-	- 2 questions:
+	- 2 questions for reading silently:
 		1. what is the average rate of silent reading
 		2. is it faster for short tests than for long tests?
-	- **! Average reading rate 238 (95%CI 230-246). Small tests did not produce faster reading rates but rather about the same, but variability was increased for small tests**
+	- **! For reading silently: Average reading rate 238 (95%CI 230-246). Small tests did not produce faster reading rates but rather about the same, but variability was increased for small tests**
 
 
 #### Individual studies
