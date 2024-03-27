@@ -13,4 +13,6 @@
 		4. What kinds of tests were utilized to determine the effects of extensive reading?
 	- **! This is not about speed reading but using extended reading to learn a second language. Nonetheless simply reading does seem to improve reading speed in these circumstances. But does it scale? Or do you plateau?**
 	- **! The impact of extended reading can be seen across all age groups. The main area of improvement is reading speed, followed closely by comprehension. Vocabulary only marginally improved in the group studies but in the pre-post studies it improved one standard deviation (so prob it improves too).**
-	- **! That being said a some stuff didn't reach the criteria of statistical significance which might indicate that it's not always the case that extensive reading helps. **
+	- **! That being said a some stuff didn't reach the criteria of statistical significance which might indicate that it's not always the case that extensive reading helps.**
+2. https://sci-hub.se/10.1016/j.jml.2019.104047 - How many words do we read per minute? A review and meta-analysis of reading rate
+	- 18573 participants
