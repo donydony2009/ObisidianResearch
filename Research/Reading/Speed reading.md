@@ -21,6 +21,8 @@
 		1. what is the average rate of silent reading
 		2. is it faster for short tests than for long tests?
 	- **! For reading silently: Average reading rate 238 (95%CI 230-246). Small tests did not produce faster reading rates but rather about the same, but variability was increased for small tests**
+	- **! For reading aloud: Average reading rate of 183 (95%CI 177-189**
+	- **! In terms of reading speed a study found no difference between reading of LCD vs high quality hard copy.**
 
 
 #### Individual studies
