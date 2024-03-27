@@ -21,7 +21,7 @@
 		1. what is the average rate of silent reading
 		2. is it faster for short tests than for long tests?
 	- "every reader is likely to have an optimal language input rate above which comprehension declines, but under which comprehension also falls because the information comes in too slowly to be integrated into meaningful chunks"
-	- **! For reading silently: Average reading rate 238 (95%CI 230-246). Small tests did not produce faster reading rates compared to longer tests but rather about the same, but variability was increased for small tests**
+	- **! For reading silently: Average reading rate 238 wpm for non fiction and 260 for fiction. Small tests did not produce faster reading rates compared to longer tests but rather about the same, but variability was increased for small tests**
 	- **! For reading aloud: Average reading rate of 183 (95%CI 177-189**
 	- **! In terms of reading speed a study found no difference between reading of LCD vs high quality hard copy.**
 	- **! In terms of age differences (with no vision impairment) no significant reading comprehension, nor speed was found**
