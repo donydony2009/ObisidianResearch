@@ -20,6 +20,7 @@
 	- 2 questions:
 		1. what is the average rate of silent reading
 		2. is it faster for short tests than for long tests?
+	- **! Average reading rate 238 (95% confidence 230-246**
 
 
 #### Individual studies
