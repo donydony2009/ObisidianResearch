@@ -26,6 +26,7 @@
 	- **! In terms of reading speed a study found no difference between reading of LCD vs high quality hard copy.**
 	- **! In terms of age differences (with no vision impairment) no significant reading comprehension, nor speed was found**
 	- **! There seems to be no correlation between reading speed and comprehension, if anything faster readers tend to have better comprehension**
+	- **! It seems to be possible to read much faster for short periods of time (2-3x?)**
 
 
 #### Individual studies
