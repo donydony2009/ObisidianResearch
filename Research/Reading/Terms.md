@@ -2,3 +2,4 @@
 **Cloze test**- A **cloze test** (also **cloze deletion test** or **occlusion test**) is an exercise, test, or assessment in which a portion of text is [masked](https://en.wikipedia.org/wiki/Mask "Mask") and the participant is asked to fill in the masked portion of text. (fill in the blank)
 **CI** - Confidence interval (stats term)
 **Sacade** - rapid movement of the eye between fixation points.
+**Fixation** - when eyes are relatively stationary and focused on a particular point

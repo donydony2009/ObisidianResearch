@@ -36,4 +36,4 @@
 		1. Showing words one after another in the same place in order to not have to move your eyes.
 		2. Different color lines so you don't jump to the wrong line
 	- We can only see clearly about 2 degrees fov. The rest is blurry. Our brain does a great job of making everything seem clear but in reality we cannot perceive more than 2 degrees clearly. This implies that your eye has to look at each individual word to read it. One way in which this is tested in by flashing a word somewhere outside of the 2 degree radius for a brief moment. The closer it is to the center the higher the change of being able to read it.
-	- A sacade fixation last around 250ms. During this time we also do cognitive processing
+	- A sacade fixation last around 250ms. During this time we also do cognitive processing. A sacade forward movement(travel time) typically last between 20-35ms
