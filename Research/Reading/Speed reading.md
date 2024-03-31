@@ -35,3 +35,4 @@
 	- Claimed forms of speed reading:
 		1. Showing words one after another in the same place in order to not have to move your eyes.
 		2. Different color lines so you don't jump to the wrong line
+	- We can only see clearly abou
