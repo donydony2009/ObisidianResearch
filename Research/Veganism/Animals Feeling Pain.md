@@ -17,9 +17,9 @@ including "umpleasant sensory and emotional experience"
 
 Examples of stimuli:
  heat/cold
- tissue gamage
+ tissue damage
  
-The information is processed  at the central nervous system providing info about where the damage was, the intesity nature, duration
+The information is processed  at the central nervous system providing info about where the damage was, the intensity nature, duration
 
 Pain effects / evidence:
  emotional state of pain
