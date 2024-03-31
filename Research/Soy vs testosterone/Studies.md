@@ -2,7 +2,7 @@
 ### Meta Analyses
 
 1. https://sci-hub.se/10.1016/j.reprotox.2020.12.019 - Neither soy nor isoflavone intake affects male reproductive hormones: An expanded and updated meta-analysis of clinical studies
-	- Avg in japan of isoflavone 30-50mg/d ([[Soy vs testosterone#^1|1]], [[#^2|2]]) 
+	- Avg in japan of isoflavone 30-50mg/d ([[Studies#^1|1]], [[#^2|2]]) 
 	- Avg in US([[^3|3]]) and Europe ([[^4|4]]) of isoflavone < 3mg/d
 	- 1g of soy protein is associated with 3.5mg of isoflavone ([[^1|1]])
 	- Isoflavone has a similar chemical structure to the hormone estrogen which allows them to bind to estrogen receptors (ER)([[^5|5]], [[^6|6]])

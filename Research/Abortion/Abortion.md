@@ -3,7 +3,7 @@
 ?- Question
 
 Why Abortion is immoral - https://sci-hub.se/https://doi.org/10.2307/2026961
-	Assumtions:
+	Assumptions:
 		"whether or not abortion is morally permissible stands or falls on whether or not a fetus is the sort of being whose life it is seriously wrong to end." - He assumes it is seriously wrong
 	Introductions:
 		- Begin the questions. Pro-abortions say the fetus is not a person so no rights, anti say the opposite
