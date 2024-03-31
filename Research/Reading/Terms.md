@@ -3,3 +3,4 @@
 **CI** - Confidence interval (stats term)
 **Sacade** - rapid movement of the eye between fixation points.
 **Fixation** - when eyes are relatively stationary and focused on a particular point
+**Parafoveal vision** - Up to around 6 degrees in your vision you can kinda see stuff outside of the clear vision area. This can help identify small words like "the"
