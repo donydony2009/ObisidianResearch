@@ -65,14 +65,14 @@
 11. https://sci-hub.se/https://doi.org/10.3945/jn.116.231803 - Protein Supplementation Has Minimal Effects on Muscle Adaptations during Resistance Exercise Training in Young Men: A Double-Blind Randomized Clinical Trial
 	- 71 men, age ~25, 3 groups, placebo, whey, soy; 22g/d
 	- No difference in strength gain
-	- **! Study doesn't find a statistically significant change in testosterone. BUT I could access the data. Also the does was kinda low**
+	- **! Study doesn't find a statistically significant change in testosterone. BUT I could access the data. Also the dose was kinda low**
 12. https://www.frontiersin.org/journals/endocrinology/articles/10.3389/fendo.2019.00229/full - The Effect of Soy Isoflavones on Steroid Metabolism
 	- 200 men, age 45-75, 15 soy 66mg/d isoflavones
 	- low dose
 	- **! Study doesn't find a statistically significant change in testosterone. BUT people are old and dose is small**
 13. https://sci-hub.se/10.1210/jcem.86.7.7645 - Dietary Soy Has Both Beneficial and Potentially Adverse Cardiovascular Effects: A Placebo-Controlled Study in Men and Postmenopausal Women
 	- 108 men and 105 post-menopausal women, age 50-75y. fking old. 118mg/d isoflavones
-	- **! No statistically significant change is testosterone**
+	- **! No statistically significant change is testosterone. Old ppl.**
 14. https://www.sciencedirect.com/science/article/pii/S0022316622101008 - Soy Protein Isolates of Varying Isoflavone Content Exert Minor Effects on Serum Reproductive Hormones in Healthy Young Men
 	- 35 men, age 20-40, 3 groups, soy, soy without isoflavones and whey, 0.75mg/kg/d so 61mg/d at 80kg
 	- 32 week
