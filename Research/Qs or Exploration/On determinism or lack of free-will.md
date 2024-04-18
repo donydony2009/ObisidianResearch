@@ -1,0 +1,2 @@
+1. If it's true that we lack free will is it the tools in our mind the main thing that can help us achieve good results. Is it the tools that produce these free-will like responses? Responses that are very hard to explain by just If X then Y?
+	1. Also there may be anchors that give us endless energy under any conditions. Our WHYs. What is my why
