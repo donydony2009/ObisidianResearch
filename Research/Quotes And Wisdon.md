@@ -1,2 +1,5 @@
-Nietczhe - "He who has a why to live for can bear almost any how"
-Nietz
+Nietzsche - "He who has a why to live for can bear almost any how"
+- When people depend on you, when you made a promise, when you have a duty, all of a sudden the question of energy is not a problem. Only the attrition digs at 
+Viktor E. Frankl - "So _live_ as _if_ you were _living_ already _for the second time_ and as _if_ you had acted _the_ first _time_ as wrongly as _you are_ about to act now"
+ - A shift in perspective that can overcome many blocks
+ - If you are blocked into your own perspective try to shift it. Another example would be: imagine it's you at the end of your life. You are now wise as you lived for so long. What is the advice you would give yourself now. This shifts your perspective to if you were wise so you think what someone wise would say with the added touch that it's actually yourself giving the advice. Generic example for shifting perspective would be: Imagine that X and what would you do then
