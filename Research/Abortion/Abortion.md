@@ -14,7 +14,7 @@ Why Abortion is immoral - https://sci-hub.se/https://doi.org/10.2307/2026961
 		- Personhood tries to be narrow enough to exclude fetuses. Narrow principles can embrace too litle. Why is it wrong to kill children after they were born? What about the severly retarded?
 		- Anti-Abortion: IT is wrong to kill human *beings*. - But what is a being? Do fetuses qualify?
 		- Personhood is usually defined in terms of psychological characteristics. Which characteristics are the most important? Why should those characteristics make a difference?
-		*- What about the right of someone in a coma? He is not concious why should he be kept alive? - Most likely because that is their infered will. - But the will doesn't matter. He has rights no matter his will
+		*- What about the right of someone in a coma? He is not conscious why should he be kept alive? - Most likely because that is their inferred will. - But the will doesn't matter. He has rights no matter his will
 	Personhood definition attempt (do babies even have this?):
 		The characteristics that confer commonsense personhood are not arbitrary bases for rights and duties, such as race, sex or species membership; rather they are traits that make sense out of rights and duties and
 		without which those moral attributes would have no point or function. It
