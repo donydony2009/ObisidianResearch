@@ -3,6 +3,8 @@
 2. Contradictory beliefs makes for getting to some depth in the discussion
 3. I should probably care
 
+What makes for great discussions?
+
 ### Stories
 ### Relationships
 
