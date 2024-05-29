@@ -12,6 +12,9 @@ These are probably are best when invoked as part of the current subject of discu
 3. What are relationship goals?
 4. **What is the point of a relationship?**
 
+### Wisdom
+1. Ageism
+	- I keep saying all kids are stupid because I was stupid and we all were
 ### Philosophy
 1. Abortion
 	- I need to study this first
@@ -23,7 +26,9 @@ These are probably are best when invoked as part of the current subject of discu
 4. Politics
 
 ### Mundane
-
+1. Wearther
+2. How was the trip?
+3. What did you do this weekend?
 ### Drugs
 
 ### Jokes
