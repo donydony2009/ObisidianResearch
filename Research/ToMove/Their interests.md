@@ -3,10 +3,10 @@ https://jobs.careers.microsoft.com/global/en/job/1715063/Software-Engineer
 ### Job descriptions
 #### Senior Software engineer - Today - ECommerce
 - High quality secure and compliant solutions
-- Collaborate closely with Product, Desing, and Engineering teams to build new features
+- Collaborate closely with Product, Design, and Engineering teams to build new features
 - Design develop, test, use and support features experiences and solutions primarily in C#, PowerShell, and Azure technologies ([[#^aks|AKS]], [[#^kv|KV]], [[#^cosmosdb|CosmosDB]]**)
-- Support highly available services used by milions of users on a daily basis.
-- Work with support to triage and debug technical support requests - Keywork **Support work**
+- Support highly available services used by millions of users on a daily basis.
+- Work with support to triage and debug technical support requests - Keyword **Support work**
 - Analyze how your features are performing in production to learn and make the product better - Keyword **monitoring/loadtesting/optimization**
 - Act as Designated Responsible Individual (DRI) working on call to monitor system/product feature/service for degradation, downtime, or interruptions. 
 - Embody our [culture](https://careers.microsoft.com/v2/global/en/culture) and [values](https://www.microsoft.com/en-us/about/corporate-values).
@@ -43,22 +43,27 @@ https://jobs.careers.microsoft.com/global/en/job/1715063/Software-Engineer
 - Accountability - accept full responsibility for our decisions, actions, and results
 
 ### Terms
-AKS - Azure Kubernetes Service ^aks
 
-KV - Key vault - Secure key management, essentially a secret manager - "Microsoft processes your keys in [[#^fips|FIPS]] validated [[#^hsm|HSMs]]" ^kv
+**AKS** - Azure Kubernetes Service ^aks
 
-FIPS - Federal information processing standards - A standard in US for security. Has 4 levels 
+**KV** - Key vault - Secure key management, essentially a secret manager - "Microsoft processes your keys in [[#^fips|FIPS]] validated [[#^hsm|HSMs]]" ^kv
+
+**FIPS** - Federal information processing standards - A standard in US for security. Has 4 levels 
 	Level 1 - execute on general purpose computing system using unevaluated operating sistem
 	Level 2 - requires role based authentications, seals that provide evidence of any physical tampering and includes requirements regarding the OS
 	Level 3 - physical tampering resistance
 	Level 4 - more stringent tamper resistant requirements + environmental hazards resistance ^fips
 
-HSMs - Hardware security module - a physical computing device that safeguard and manages secrets, performs encryption and decryption functions for digital signatures, strong authentication and other cryptographic functions ^hsm
+**HSMs** - Hardware security module - a physical computing device that safeguard and manages secrets, performs encryption and decryption functions for digital signatures, strong authentication and other cryptographic functions ^hsm
 
-CosmosDB - A Mongo compatible cloud db - pay per vCore - vector database ^cosmosdb
+**CosmosDB** - A Mongo compatible cloud db - pay per vCore - [[#^vectordb|vector database]] ^cosmosdb
 
-Vector Database - a database designed to store and manage vector embeddings which are mathematical representations of data in a high-dimensional space. In this space each dimension corresponds to a feature of the data, and tens of thousands of dimensions might be used to represent sophisticated data. A vectors position in this space represents it's characteristics.
+**Vector Database** - a database designed to store and manage vector embeddings which are mathematical representations of data in a high-dimensional space. In this space each dimension corresponds to a feature of the data, and tens of thousands of dimensions might be used to represent sophisticated data. A vectors position in this space represents it's characteristics.
 	Use cases:
 	- Identify similar images, documents, songs based on their contents themes sentiments
 	- Identify similar products based on their characteristics features and user groups
-	- Recomment contents products or services based on individual preferences or user group similarities
+	- Recommend contents products or services based on individual preferences or user group similarities
+	- Identify best fit potential options from a large pool of choices to meet complex requirements
+	- Identify data anomalies or fraudulent activities that are dissimilar from a predominant or normal patterns
+	- Implement persistent memory for AI agents
+	**Wtf I am understanding**: You train a model based on your data and that produces this vector embedding, then you use this to put it in the db and query it for close matches rather than exact ones. Probably you can produce a vector based on user input then compare it to the pretrained stuff ^vectordb
