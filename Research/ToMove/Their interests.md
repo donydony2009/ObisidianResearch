@@ -4,7 +4,7 @@ https://jobs.careers.microsoft.com/global/en/job/1715063/Software-Engineer
 #### Senior Software engineer - Today - ECommerce
 - High quality secure and compliant solutions
 - Collaborate closely with Product, Desing, and Engineering teams to build new features
-- Design develop, test, use and support features experiences and solutions primarily in C#, PowerShell, and Azure technologies ([[#^aks|AKS]], [[#^kv|KV]], CosmosDB**)
+- Design develop, test, use and support features experiences and solutions primarily in C#, PowerShell, and Azure technologies ([[#^aks|AKS]], [[#^kv|KV]], [[#^cosmosdb|CosmosDB]]**)
 - Support highly available services used by milions of users on a daily basis.
 - Work with support to triage and debug technical support requests - Keywork **Support work**
 - Analyze how your features are performing in production to learn and make the product better - Keyword **monitoring/loadtesting/optimization**
@@ -55,4 +55,10 @@ FIPS - Federal information processing standards - A standard in US for security.
 
 HSMs - Hardware security module - a physical computing device that safeguard and manages secrets, performs encryption and decryption functions for digital signatures, strong authentication and other cryptographic functions ^hsm
 
-CosmosDB - 
+CosmosDB - A Mongo compatible cloud db - pay per vCore - vector database ^cosmosdb
+
+Vector Database - a database designed to store and manage vector embeddings which are mathematical representations of data in a high-dimensional space. In this space each dimension corresponds to a feature of the data, and tens of thousands of dimensions might be used to represent sophisticated data. A vectors position in this space represents it's characteristics.
+	Use cases:
+	- Identify similar images, documents, songs based on their contents themes sentiments
+	- Identify similar products based on their characteristics features and user groups
+	- Recomment contents products or services based on individual preferences or user group similarities
