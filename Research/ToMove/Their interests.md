@@ -13,8 +13,13 @@ https://jobs.careers.microsoft.com/global/en/job/1715063/Software-Engineer
 
 #### Senior software engineer - 27 days ago- Azure Container Instances
 - **This is a solution for running containers in the Cloud**
-- Partners with appropriate stakeholdes to determine user requirements for a set of scenarios - keyword **Collaborations/Stakeholders**
+- Partners with appropriate stakeholders to determine user requirements for a set of scenarios - keyword **Collaborations/Stakeholders**
+- Identify dependencies and generate design documents for a product application service or platform - keyword **Design**
+- Build scalable systems and maintainable code used across products - keyword **Scalable and maintainable**
+- Seek knowledge, adapts to trends, while driving consistency through monitoring and operations at scale and shared knowledge with other engineers - keyword **knowledge seeking**
+- Gain a working understanding of Microsoft businesses and collaborate with mentors and leaders to contribute to cohesive end to end experiences - keyword **Mentorship/Big company relations**
 
+#### Senior software engineer - 27 days ago- Azure Container Instances
 ### Culture
 - Growth mindset - never stop growing and developing, always learn, always be curious
 - Customer obsessed - always strive to bring more value to the customer
