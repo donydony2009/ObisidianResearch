@@ -49,14 +49,14 @@ https://jobs.careers.microsoft.com/global/en/job/1715063/Software-Engineer
 **KV** - Key vault - Secure key management, essentially a secret manager - "Microsoft processes your keys in [[#^fips|FIPS]] validated [[#^hsm|HSMs]]" ^kv
 
 **FIPS** - Federal information processing standards - A standard in US for security. Has 4 levels 
-	Level 1 - execute on general purpose computing system using unevaluated operating sistem
+	Level 1 - execute on general purpose computing system using unevaluated operating system
 	Level 2 - requires role based authentications, seals that provide evidence of any physical tampering and includes requirements regarding the OS
 	Level 3 - physical tampering resistance
 	Level 4 - more stringent tamper resistant requirements + environmental hazards resistance ^fips
 
 **HSMs** - Hardware security module - a physical computing device that safeguard and manages secrets, performs encryption and decryption functions for digital signatures, strong authentication and other cryptographic functions ^hsm
 
-**CosmosDB** - A Mongo compatible cloud db - pay per vCore - [[#^vectordb|vector database]] ^cosmosdb
+**CosmosDB** - A MongoDB compatible cloud db - pay per vCore - [[#^vectordb|vector database]] ^cosmosdb
 
 **Vector Database** - a database designed to store and manage vector embeddings which are mathematical representations of data in a high-dimensional space. In this space each dimension corresponds to a feature of the data, and tens of thousands of dimensions might be used to represent sophisticated data. A vectors position in this space represents it's characteristics.
 	Use cases:
