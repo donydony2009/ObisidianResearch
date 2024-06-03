@@ -23,4 +23,14 @@ And yea there are many other examples
 #### Throttling
 Throttling involves setting limits to how much an api can be used over a unit of time. This is usually to prevent impact performance impact over your api and it also serves as a safe guard against bugs that just call your api in a loop.
 Ways to implement it could be a simple fixed size queue
-A sliding window of max calls
+	Advantages:
+		Easy to implement
+		Processes requests at a contant rate even for bursts
+	Disadvantages:
+		Possible if some requrests take too long for starvation. Other requests not being processed because we are still waiting for the slow requests
+Fixed window of max calls (1000req/hour)
+	Advantages:
+		No starvation
+	Disadvantages:
+		Bursts can overwhelp
+Sliding window 
