@@ -4,7 +4,7 @@ https://jobs.careers.microsoft.com/global/en/job/1715063/Software-Engineer
 #### Senior Software engineer - Today - ECommerce
 - High quality secure and compliant solutions
 - Collaborate closely with Product, Desing, and Engineering teams to build new features
-- Design develop, test, use and support features experiences and solutions primarily in C#, PowerShell, and Azure technologies ([[#^aks|AKS]], KV?, CosmosDB?**)
+- Design develop, test, use and support features experiences and solutions primarily in C#, PowerShell, and Azure technologies ([[#^aks|AKS]], [[#^kv|KV]], CosmosDB**)
 - Support highly available services used by milions of users on a daily basis.
 - Work with support to triage and debug technical support requests - Keywork **Support work**
 - Analyze how your features are performing in production to learn and make the product better - Keyword **monitoring/loadtesting/optimization**
@@ -44,9 +44,15 @@ https://jobs.careers.microsoft.com/global/en/job/1715063/Software-Engineer
 
 ### Terms
 AKS - Azure Kubernetes Service ^aks
-KV - Key vault - Secure key management, essentially a secret manager - "Microsoft processes your keys in FIPS validated HSMs" ^kv
-FIPS - Federal information processing standards - A standard in US for security. Has 4 levels
+
+KV - Key vault - Secure key management, essentially a secret manager - "Microsoft processes your keys in [[#^fips|FIPS]] validated [[#^hsm|HSMs]]" ^kv
+
+FIPS - Federal information processing standards - A standard in US for security. Has 4 levels 
 	Level 1 - execute on general purpose computing system using unevaluated operating sistem
 	Level 2 - requires role based authentications, seals that provide evidence of any physical tampering and includes requirements regarding the OS
 	Level 3 - physical tampering resistance
-	Level 4 - more stringent tamper resistant requirements + environmental hazards resistance
+	Level 4 - more stringent tamper resistant requirements + environmental hazards resistance ^fips
+
+HSMs - Hardware security module - a physical computing device that safeguard and manages secrets, performs encryption and decryption functions for digital signatures, strong authentication and other cryptographic functions ^hsm
+
+CosmosDB - 
