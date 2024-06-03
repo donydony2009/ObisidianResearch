@@ -33,4 +33,6 @@ Fixed window of max calls (1000req/hour)
 		No starvation
 	Disadvantages:
 		Bursts can overwhelp
-Sliding window 
+Sliding window of max calls. It records a timestamp on the first request and allows X more requests within the sliding time. For example 2 req per minute. We record a T0 on the first request and we allow one more request within T0 + 1min.
+	Advantages:
+		Takes best of both worlds of the queue and fixed windows
