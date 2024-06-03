@@ -24,7 +24,14 @@ https://jobs.careers.microsoft.com/global/en/job/1715063/Software-Engineer
 #### Senior software engineer manager - 4 months ago- Azure Storage
 - Collaborates with stakeholders - keyword **Collab/Stakeholders**
 - Identifies dependencies and the development of design documents for a product, app, service or platform - keyword **design**
-- Creates, implements, optimizes, debugs, refactors and reuses code to establish and improve performance and maintainability, effectiveness and return on investment. Keyword - "**all the things a developer does lul**
+- Creates, implements, optimizes, debugs, refactors and reuses code to establish and improve performance and maintainability, effectiveness and return on investment. Keyword - **all the things a developer does lul**
+- Leverage expertise to drive project plans, release palns and work items. Keyword: **planning**
+- Acts as Designated Responsible Individual - Keyword: **ownership**
+- Proactively seek new knowledge adapt to trends while being mindful of what already exists and maintaining stability - Keyword: **driven, knowledge seeking**
+
+#### Senior Software Engineering Manager - 17 days ago - Azure Compute
+
+
 ### Culture
 - Growth mindset - never stop growing and developing, always learn, always be curious
 - Customer obsessed - always strive to bring more value to the customer
@@ -34,3 +41,6 @@ https://jobs.careers.microsoft.com/global/en/job/1715063/Software-Engineer
 - Respect - recognize other people's thoughts, feelings and backgrounds
 - Integrity - honesty, ethical, trustworthy
 - Accountability - accept full responsibility for our decisions, actions, and results
+
+### Terms
+AKS - Azure 
