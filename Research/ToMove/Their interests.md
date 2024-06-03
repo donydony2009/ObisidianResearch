@@ -44,4 +44,9 @@ https://jobs.careers.microsoft.com/global/en/job/1715063/Software-Engineer
 
 ### Terms
 AKS - Azure Kubernetes Service ^aks
-KV - Key vault - Secure key management, essentially a secret manager
+KV - Key vault - Secure key management, essentially a secret manager - "Microsoft processes your keys in FIPS validated HSMs" ^kv
+FIPS - Federal information processing standards - A standard in US for security. Has 4 levels
+	Level 1 - execute on general purpose computing system using unevaluated operating sistem
+	Level 2 - requires role based authentications, seals that provide evidence of any physical tampering and includes requirements regarding the OS
+	Level 3 - physical tampering resistance
+	Level 4 - more stringent tamper resistant requirements + environmental hazards resistance
