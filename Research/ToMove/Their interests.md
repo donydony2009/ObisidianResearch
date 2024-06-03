@@ -19,7 +19,12 @@ https://jobs.careers.microsoft.com/global/en/job/1715063/Software-Engineer
 - Seek knowledge, adapts to trends, while driving consistency through monitoring and operations at scale and shared knowledge with other engineers - keyword **knowledge seeking**
 - Gain a working understanding of Microsoft businesses and collaborate with mentors and leaders to contribute to cohesive end to end experiences - keyword **Mentorship/Big company relations**
 
-#### Senior software engineer - 27 days ago- Azure Container Instances
+#### Senior software engineer manager - 27 days ago- Azure Storage Fundamentals
+
+#### Senior software engineer manager - 4 months ago- Azure Storage
+- Collaborates with stakeholders - keyword **Collab/Stakeholders**
+- Identifies dependencies and the development of design documents for a product, app, service or platform - keyword **design**
+- Creates, implements, optimizes, debugs, refactors and reuses code to establish and improve performance and maintainability, effectiveness and return on investment. Keyword - "**all the things a developer does lul**
 ### Culture
 - Growth mindset - never stop growing and developing, always learn, always be curious
 - Customer obsessed - always strive to bring more value to the customer
