@@ -36,3 +36,8 @@ Fixed window of max calls (1000req/hour)
 Sliding window of max calls. It records a timestamp on the first request and allows X more requests within the sliding time. For example 2 req per minute. We record a T0 on the first request and we allow one more request within T0 + 1min.
 	Advantages:
 		Takes best of both worlds of the queue and fixed windows
+
+### Stale cache
+Refers to cache for which the underlying data has been modified so now it's stale. Depending on how critical is the data you can:
+- Just have it stale for a bit if it's not critical
+- Send some sort of cache invalidation that could be either eventually consistent or consistent
