@@ -67,3 +67,6 @@ Atmosphere composition
 	21% Oxygen
 	0.93% argon
 	0.04% CO2
+
+How to tell CO2 heating from Solar heating?
+CO2 increases heat at the surface while it cools it at the atmosphere
