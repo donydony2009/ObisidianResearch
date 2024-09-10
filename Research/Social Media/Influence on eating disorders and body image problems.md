@@ -30,7 +30,7 @@ Social media usage leads to body image concerns, eating disorders/disordered eat
 - Eating disorders affect 8.4% of women and 2.2 of men
 
 #### Reasoning
-- Body image issues although grounded in physical appearance 
+- Body image issues although grounded in physical appearance it is rarely synonymous. Individuals often have some kind of dysmorphia seeing fatnesss, ugliness or an endless list of flaws
 
 ### References
 1. Trends in the prevalence and disability-adjusted life years of eating disorders from 1990 to 2017: results from the Global Burden of Disease Study 2017 - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7737181/ ^1
