@@ -8,3 +8,13 @@ Ex: Independent variable: Exericse, Dependent variable: Weight loss, Moderator: 
 
 ### Results
 Social media usage leads to body image concerns, eating disorders/disordered eating and poor mental health via the mediating pathways of **?social comparison?**, **?thin / fit ideal internalisation?**, and **?self-objectification?**. Specific exposures (social media trends, pro-eating disorder content, appearance focused platforms and investment in photos) and moderators (high BMI, female gender, and pre-existing body image concerns) strengthen the relationship, while other moderators (high social media literacy and body appreciation) are protective, hinting at a ‘self-perpetuating cycle of risk’.
+
+### Background in eating disorders
+
+#### Eating disorders
+- Anorexia - intense fear of weight gain and/or distrubed body image that motivates severe dietary restrictions
+- Bulimia - episodes of binge eating and puking it
+- Binge eating disorder - Episodes of compulsive overeating that leads to distress without attempts to compensate for it
+- Avoidant/restrivtive food intake - the avoidance or restrictive intake of food in the absence of the body image concerns or fear of weight gain
+- Pica - Eating non-nutritive or non food substances for long periods (more than a month)
+- Rumination disorders - regurgitation of food after eating without any nausea 
