@@ -26,9 +26,13 @@ Social media usage leads to body image concerns, eating disorders/disordered eat
 - Reduced bone density
 - Comorbid psychiatric conditions (depression, anxiety, OCD, specific phobias)
 - In females one of the leading causes of disability often preceding amenorrhea, reduced fertility and adverse pregnancy and neonatal outcomes.
-- Anorexia has the highest mortality with only 50% of individuals fully recovering
+- Anorexia has the highest mortality with only 50% of individuals fully recovering ([[#^1|1]], [[#^2|2]], [[#^3|3]])
+- Eating disorders affect 8.4% of women and 2.2 of men
+
+#### Reasoning
+- Body image issues although grounded in physical appearance 
 
 ### References
 1. Trends in the prevalence and disability-adjusted life years of eating disorders from 1990 to 2017: results from the Global Burden of Disease Study 2017 - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7737181/ ^1
 2. Epidemiology of eating disorders in Europe: prevalence, incidence, comorbidity, course, consequences, and risk factors - https://sci-hub.se/10.1097/YCO.0000000000000278 ^2
-3. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7613242/ 
+3. On the limited visibility of eating disorders research - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7613242/ ^3
