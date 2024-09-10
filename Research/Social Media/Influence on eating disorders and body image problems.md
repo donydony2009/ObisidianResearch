@@ -22,6 +22,13 @@ Social media usage leads to body image concerns, eating disorders/disordered eat
 #### Impact 
 
 - 6-10% increase in years lived with disability ([[#^1|1]])
+- Cardiovascular disease
+- Reduced bone density
+- Comorbid psychiatric conditions (depression, anxiety, OCD, specific phobias)
+- In females one of the leading causes of disability often preceding amenorrhea, reduced fertility and adverse pregnancy and neonatal outcomes.
+- Anorexia has the highest mortality with only 50% of individuals fully recovering
 
 ### References
-# Trends in the prevalence and disability-adjusted life years of eating disorders from 1990 to 2017: results from the Global Burden of Disease Study 2017https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7737181/ ^1
+1. Trends in the prevalence and disability-adjusted life years of eating disorders from 1990 to 2017: results from the Global Burden of Disease Study 2017 - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7737181/ ^1
+2. Epidemiology of eating disorders in Europe: prevalence, incidence, comorbidity, course, consequences, and risk factors - https://sci-hub.se/10.1097/YCO.0000000000000278 ^2
+3. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7613242/ 
