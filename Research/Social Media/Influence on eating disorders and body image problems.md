@@ -12,9 +12,16 @@ Social media usage leads to body image concerns, eating disorders/disordered eat
 ### Background in eating disorders
 
 #### Eating disorders
-- Anorexia - intense fear of weight gain and/or distrubed body image that motivates severe dietary restrictions
-- Bulimia - episodes of binge eating and puking it
-- Binge eating disorder - Episodes of compulsive overeating that leads to distress without attempts to compensate for it
-- Avoidant/restrivtive food intake - the avoidance or restrictive intake of food in the absence of the body image concerns or fear of weight gain
-- Pica - Eating non-nutritive or non food substances for long periods (more than a month)
-- Rumination disorders - regurgitation of food after eating without any nausea 
+- **Anorexia** - intense fear of weight gain and/or distrubed body image that motivates severe dietary restrictions
+- **Bulimia** - episodes of binge eating and puking it
+- **Binge eating disorder** - Episodes of compulsive overeating that leads to distress without attempts to compensate for it
+- **Avoidant/restrivtive food intake** - the avoidance or restrictive intake of food in the absence of the body image concerns or fear of weight gain
+- **Pica** - Eating non-nutritive or non food substances for long periods (more than a month)
+- **Rumination disorders** - regurgitation of food after eating without any nausea, involuntary retching or disgust
+- Etc (other subclinical)
+#### Impact 
+
+- 6-10% increase in years lived with disability ([[#^1|1]])
+
+### References
+# Trends in the prevalence and disability-adjusted life years of eating disorders from 1990 to 2017: results from the Global Burden of Disease Study 2017https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7737181/ ^1

@@ -3,10 +3,10 @@ Source: https://psiedu.ubbcluj.ro/data/uploads/poze/afis/tool-kit-socio-emotiona
 #### What are non-cognitive abilities
 
 - All abilities besides general inteligence/cognitive ability which proved to be good predictors for success and mental health ([[#^1|1]])
-- "High skill in these abilities can make even a low intelligence person succeed while low skill in these abilities can make a high intelligence person fail" ([[^2|2]], [[^3|3]])
-- The predictive value of these abilities in adolescence and adult life make them an important target ([[^4|4]], [[^5|5]])
-- You can improve these skills in formal, non-formal or informal contexts and they do transfer in day to day life ([[^6|6]], [[^7|7]])
-- The complexity of social interactions in the education system can strongly influence the development of these skills which are interconnected and they can be iteratively built ([[^8|8]], [[^9|9]])
+- "High skill in these abilities can make even a low intelligence person succeed while low skill in these abilities can make a high intelligence person fail" ([[#^2|2]], [[#^3|3]])
+- The predictive value of these abilities in adolescence and adult life make them an important target ([[#^4|4]], [[#^5|5]])
+- You can improve these skills in formal, non-formal or informal contexts and they do transfer in day to day life ([[#^6|6]], [[#^7|7]])
+- The complexity of social interactions in the education system can strongly influence the development of these skills which are interconnected and they can be iteratively built ([[#^8|8]], [[#^9|9]])
 
 
 
