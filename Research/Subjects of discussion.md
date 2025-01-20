@@ -15,6 +15,11 @@ These are probably are best when invoked as part of the current subject of discu
 3. What are relationship goals?
 4. **What is the point of a relationship?**
 
+### Human dynamics
+- Abusive dynamics
+	- They can naturally occur without mallicious intention
+	- Creating the expectation that the abuser will become upset will trigger the abuser to be upset. For example: "I don't want a lot for christmas I just want you. - So I am not a lot?" if the response is laughing as if it's a joke most likely response will be to laugh along. If the response is nervousness and defensiveness it can trigger the abusive pattern
+
 ### Wisdom
 1. Ageism
 	- I keep saying all kids are stupid because I was stupid and we all were
