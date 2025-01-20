@@ -19,6 +19,7 @@ These are probably are best when invoked as part of the current subject of discu
 - Abusive dynamics
 	- They can naturally occur without mallicious intention
 	- Creating the expectation that the abuser will become upset will trigger the abuser to be upset. For example: "I don't want a lot for christmas I just want you. - So I am not a lot?" if the response is laughing as if it's a joke most likely response will be to laugh along. If the response is nervousness and defensiveness it can trigger the abusive pattern
+	- The responsibility in an abusive relationship should probably always be on the abuser? Is there any responsibility on the abused to avoid triggering patterns? Is it just a nice to have? How about the abuser setting a boundary and then if the abused breaks that boundary he/she is in the wrong as well?
 
 ### Wisdom
 1. Ageism
