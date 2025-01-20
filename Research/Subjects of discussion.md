@@ -6,6 +6,9 @@
 **What makes for great discussions?**
 ### Stories
 These are probably are best when invoked as part of the current subject of discussion
+
+### Unpopular opinions
+- Being excited about a subject is not enough to make me interested.
 ### Relationships
 1. Red flags
 2. Green flags
