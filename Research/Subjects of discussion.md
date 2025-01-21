@@ -47,3 +47,23 @@ Idk if I am the best at this. Prob not my cup of tea since I can't remember most
 #### Books
 #### Animes
 #### Shows / Movies
+
+### Time based
+#### Winter
+##### December
+- Christmas
+- St Nicholas
+- New years
+
+##### January
+- New years resolutions
+
+##### Feb
+- Dragobete / valentines
+
+#### Spring
+
+- Easter plans
+#### Summer
+
+#### Autumn
