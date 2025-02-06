@@ -1,1 +1,1 @@
-**Slane Irish whisky** - dulceag, aromat, bland, un pic prea dulce pt gustul meu 3.5/5
+**Slane Irish whisky** - dulceag, aromat, bland, un pic prea dulce pt gustul meu. Me 3/5, other maybe: 4/5
