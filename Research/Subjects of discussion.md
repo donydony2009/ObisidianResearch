@@ -68,3 +68,12 @@ Idk if I am the best at this. Prob not my cup of tea since I can't remember most
 #### Summer
 
 #### Autumn
+
+
+### Unsorted
+
+Context: Vid saying ppl chose to wfh instead of getting a promotion. Calcs of costs of WFO which included time + money of makeup. Is make up required for you job? Are there expectations which if not met will affect you? Are others contributing to the problem by wearing it? Is the market for women more competitive?
+
+
+Are women more emotional than man?
+
