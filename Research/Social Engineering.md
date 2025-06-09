@@ -3,3 +3,4 @@
 
 ### General Info
 - Do a questionnaire and give a gift card for it.
+- Pretend to be the target and ask is this info correct? Or which info did you have? For example, which number did you have saved for me
