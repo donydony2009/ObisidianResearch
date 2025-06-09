@@ -1,0 +1,2 @@
+### Finding if someone wants to date someone else (cheating maybe)
+- Call and pretend to be someone that knows the target and want to date but check with that person if it's ok to date that person. ([src](https://www.youtube.com/watch?v=Z80kS1ssjsw))
