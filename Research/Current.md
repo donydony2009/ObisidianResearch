@@ -1,8 +1,11 @@
 Ideally
 8 hours of work
 8 hours of me time:
-- 30 minutes to eat
-- 
+- 0.5 hours to eat
+- 1 hour to read ?
+- 2.5 hours gym
+- 4 hours chill?
+8 hours to sleep
 
 Tommorow schedule
 
