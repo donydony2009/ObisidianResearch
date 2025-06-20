@@ -11,6 +11,7 @@ Tabasco Habanero
 Hotness: 4/5
 Taste: 5/5
 
-Sriracha chili sauce
+Sriracha Cocos - Huy Fong Foods
 Hotness: 2/5
-Taste: 5/5
+Taste: 4/5
+
