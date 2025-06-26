@@ -1,17 +1,27 @@
-Tabasco Original
+**Tabasco Original**
 Hotness: 2/5
 Taste: 2/5
 
 
-Tabasco Smoked - smoky
+**Tabasco Smoked - smoky**
 Hotness: 1/5
 Taste: 3/5
 
-Tabasco Habanero
-Hotness: 4/5
+**Tabasco Habanero**
+Hotness: 5/5
 Taste: 5/5
 
-Sriracha Cocos - Huy Fong Foods
+Fruity one
+Hotness :
+
+**Sriracha Cocos - Huy Fong Foods**
 Hotness: 2/5
 Taste: 4/5
 
+**Marie** 
+Hotness: 4/5
+Taste: 4/5
+
+**Sevilla**
+Hotness: 4/5
+Taste: 3/5
